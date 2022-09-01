@@ -2,7 +2,7 @@
 About me
 
 ## CV
-![CV](CV.pdf)
+![CV](CV.png)
 
 ## Project
 [iHodler](https://github.com/leofriskey/iHodl)
